@@ -58,7 +58,8 @@ admin.site.register(Book)
 
 ## OUTPUT
 ### Django Admin Page
-ORM/screenshots/2026-11-06.png
+
+![Django Admin Output](screenshots/2026-11-06.png)
 
 ## RESULT
 Thus the program for creating E-commerce website database using ORM hass been executed successfully
