@@ -48,7 +48,7 @@ class Book(models.Model):
     def __str__(self):
         return self.title
 ### admin.py
-```python
+python
 from django.contrib import admin
 from .models import Book
 
@@ -56,9 +56,9 @@ admin.site.register(Book)
 
 
 
-### OUTPUT
+## OUTPUT
 ### Django Admin Page
 ![Django Admin Output](./screenshots/2026-11-06.png)
 ![alt text](screenshots/2026-11-06.png)
-### RESULT
+## RESULT
 Thus the program for creating E-commerce website database using ORM hass been executed 
